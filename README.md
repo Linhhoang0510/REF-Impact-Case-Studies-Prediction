@@ -17,6 +17,10 @@ first selective agonists of Free Fatty Acid Receptors [https://drive.google.com/
 
 4. Random 4-star-rated sample for one-shot learning: [https://drive.google.com/file/d/1bti91gu_Akd8tTY7W8OJeVTJ7DIh4A3I/view?usp=sharing]
 
-5. Revised Impact Case Studies by Claude: [https://drive.google.com/file/d/1JXVyDY5gFOZIcAXmb1LXtK8nnAD6hNiM/view?usp=sharing]
+5. Revised Impact Case Studies by Claude:
+
+   + Full text: [https://docs.google.com/document/d/10bXZ6cKsv_473cZ2-fDMtFgp7JlPQsFL/edit?usp=sharing&ouid=105413206312208690662&rtpof=true&sd=true]
+
+   + CSV file: [https://drive.google.com/file/d/1JXVyDY5gFOZIcAXmb1LXtK8nnAD6hNiM/view?usp=sharing]
 
 
